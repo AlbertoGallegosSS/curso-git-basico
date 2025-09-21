@@ -1,0 +1,14 @@
+# Go
+bin/
+build/
+*.exe
+*.test
+*.out
+coverage.txt
+vendor/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
